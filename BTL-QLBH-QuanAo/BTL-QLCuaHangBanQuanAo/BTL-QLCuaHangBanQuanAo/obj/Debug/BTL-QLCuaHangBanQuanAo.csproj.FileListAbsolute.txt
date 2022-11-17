@@ -1,0 +1,175 @@
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\BTL-QLCuaHangBanQuanAo.exe.config
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\BTL-QLCuaHangBanQuanAo.exe
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\BTL-QLCuaHangBanQuanAo.pdb
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.AssemblyReference.cache
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.SuggestedBindingRedirects.cache
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.ResolveComReference.cache
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Form1.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Properties.Resources.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_KhachHang.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.GenerateResource.cache
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.CoreCompileInputs.cache
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.exe
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.pdb
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_BanHang.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_NhanVien.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_SanPham.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_HienThiMatHang.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\BTL-QLCuaHangBanQuanAo.exe.config
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\BTL-QLCuaHangBanQuanAo.exe
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\BTL-QLCuaHangBanQuanAo.pdb
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.AssemblyReference.cache
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.ResolveComReference.cache
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Form1.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Properties.Resources.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_BanHang.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_HienThiMatHang.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_KhachHang.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_NhanVien.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_SanPham.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.GenerateResource.cache
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.exe
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.pdb
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\bin\Debug\DataBase\Data.mdf
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\bin\Debug\DataBase\Data_log.ldf
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\bin\Debug\DataBase\Data.mdf
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\bin\Debug\DataBase\Data_log.ldf
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\BTL-QLCuaHangBanQuanAo.exe.config
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\BTL-QLCuaHangBanQuanAo.exe
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\BTL-QLCuaHangBanQuanAo.pdb
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.ResolveComReference.cache
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Form1.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Properties.Resources.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_BanHang.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_HienThiMatHang.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_KhachHang.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_NhanVien.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_SanPham.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.exe
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.pdb
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_CongViec.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Co.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_TheLoai.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_ChatLieu.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Mau.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_DoiTuong.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Mua.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_NoiSanXuat.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Login.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_ChatLieu.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Co.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_CongViec.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_DoiTuong.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Login.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Mau.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Mua.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_NoiSanXuat.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_TheLoai.resources
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\bin\Debug\DataBase\Data.mdf
+D:\Programing Language\C sharp\BTL\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\bin\Debug\DataBase\Data_log.ldf
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_ChatLieu.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Co.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_CongViec.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_DoiTuong.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Login.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Mau.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Mua.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_NoiSanXuat.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_TheLoai.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_NhapHang.resources
+C:\Users\Tung Nhe\Documents\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.PopUp.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_NhaCungCap.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_NhapHang.resources
+C:\Users\admin\OneDrive - University of transport and Communication\Tài liệu\GitHub\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_DetailSP.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\bin\Debug\DataBase\Data.mdf
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\bin\Debug\DataBase\Data_log.ldf
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\BTL-QLCuaHangBanQuanAo.exe.config
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\BTL-QLCuaHangBanQuanAo.exe
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\BTL-QLCuaHangBanQuanAo.pdb
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.AssemblyReference.cache
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.SuggestedBindingRedirects.cache
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.ResolveComReference.cache
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Form1.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Properties.Resources.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_BanHang.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_ChatLieu.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Co.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_CongViec.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_DetailSP.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_DoiTuong.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_HienThiMatHang.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_KhachHang.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Login.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Mau.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Mua.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_NhaCungCap.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_NhanVien.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_NhapHang.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_NoiSanXuat.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_SanPham.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_TheLoai.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.GenerateResource.cache
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.CoreCompileInputs.cache
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.exe
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.pdb
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\EnvDTE.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\stdole.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Form_Report.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL_QLCuaHangBanQuanAo.Views.Report.Form_ReportHDB.resources
+D:\Programing Language\C sharp\Btl5\BTL-QLBH-QuanAo\BTL-QLCuaHangBanQuanAo\BTL-QLCuaHangBanQuanAo\obj\Debug\BTL-QLCuaHangBanQuanAo.csproj.CopyComplete
